@@ -82,7 +82,7 @@ footer {
 .portfolio-area,
 .contact-area,
 .about-me-area {
-    margin: 20px 0px 0px 0px;
+    margin: 20px 20px 0px 0px;
     background-color: #fff;
     padding: 20px;
     border: 2px solid #dddddd;
@@ -100,8 +100,7 @@ display: block;
    flex-wrap: wrap; 
 }
 
-.flex-item {   
-flex: 1;   
+.flex-item {     
 height: 240px;   
 min-width: 310px;  
 margin: 10px;   
